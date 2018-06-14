@@ -1,0 +1,12 @@
+<resources>
+    <string name="learnt_words">Viewed</string>
+    <string name="no_learnt_words">You haven\'t learnt any words yet.\nHope you enjoyed Miwok.</string>
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="todo">TODO</string>
+    <string name="about">Developed By : Mohamed Abdelaziz\nE-mail : mohamedsaleh1984@hotmail.com\nYou comments are welcomed.\nThanks.</string>
+    <string name="lblabout">About Miwor</string>
+</resources>
